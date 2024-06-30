@@ -30,7 +30,7 @@ This repository contains a project for classifying handwritten digits using neur
 
 ### Results
 
-- **Accuracy:** The models achieved an accuracy ranging from 97.23% to 99.58%.
+- **Accuracy:** The models achieved an accuracy ranging from 97.23% to 99.66%.
 
 ![Neural Network For Handwritten Digits Classification](https://github.com/khyatig0206/Handwritten_digits_classification/assets/160642295/3465dbf4-c580-48d8-8690-41ab45ed4894)
 
